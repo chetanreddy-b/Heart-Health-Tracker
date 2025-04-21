@@ -1,0 +1,14 @@
+date,time,exercise_type,duration_minutes,intensity,calories_burned,avg_heart_rate,steps
+2025-01-19,12:45,Cycling,34,Moderate,357,135,0
+2025-01-26,18:00,Running,29,Low,208,105,5076
+2025-02-02,08:45,HIIT,38,High,760,152,0
+2025-02-09,08:00,Swimming,38,Moderate,425,135,0
+2025-02-16,17:00,Walking,41,Moderate,287,133,4200
+2025-02-23,08:00,Cycling,28,Low,168,105,0
+2025-03-02,17:30,Cycling,49,Moderate,514,134,0
+2025-03-09,07:45,Walking,24,High,240,174,2297
+2025-03-16,17:00,Swimming,35,High,560,175,0
+2025-03-23,08:00,Weight Training,35,High,455,161,0
+2025-03-30,18:15,Walking,30,Moderate,210,133,3207
+2025-04-06,19:00,HIIT,15,Low,120,111,0
+2025-04-13,08:45,Cycling,40,Moderate,420,143,0

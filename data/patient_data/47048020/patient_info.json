@@ -1,0 +1,53 @@
+{
+  "id": "47048020",
+  "name": "Jeffrey Cruz",
+  "age": 55,
+  "gender": "female",
+  "birth_date": "1970-04-10",
+  "conditions": [],
+  "medications": [],
+  "bp_category": "Hypertension Stage 1",
+  "vitals": {
+    "Systolic BP": 132.4,
+    "Diastolic BP": 81.7,
+    "Heart Rate": 76,
+    "Height": 151.8,
+    "Weight": 48.8,
+    "BMI": 21.2
+  },
+  "has_hypertension": false,
+  "condition_ids": [],
+  "medication_ids": [],
+  "allergy_ids": [
+    [
+      "Shellfish Allergy",
+      "47048021"
+    ]
+  ],
+  "vital_ids": [
+    [
+      "Systolic BP",
+      "47048022"
+    ],
+    [
+      "Diastolic BP",
+      "47048023"
+    ],
+    [
+      "Heart Rate",
+      "47048024"
+    ],
+    [
+      "Height",
+      "47048025"
+    ],
+    [
+      "Weight",
+      "47048026"
+    ],
+    [
+      "BMI",
+      "47048027"
+    ]
+  ]
+}

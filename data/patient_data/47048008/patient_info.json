@@ -1,0 +1,81 @@
+{
+  "id": "47048008",
+  "name": "Richard Parker",
+  "age": 43,
+  "gender": "male",
+  "birth_date": "1982-12-11",
+  "conditions": [
+    "Hypertension",
+    "COPD"
+  ],
+  "medications": [
+    "Lisinopril 10 MG Tablet",
+    "Amlodipine 5 MG Tablet",
+    "Losartan 50 MG Tablet",
+    "Metoprolol Tartrate 25 MG Tablet",
+    "Hydrochlorothiazide 25 MG Tablet",
+    "Albuterol Inhaler",
+    "Tiotropium 18 MCG Capsule"
+  ],
+  "bp_category": "Hypertension Stage 1",
+  "vitals": {
+    "Systolic BP": 123.3,
+    "Diastolic BP": 88.3,
+    "Heart Rate": 78,
+    "Height": 169.1,
+    "Weight": 80.8,
+    "BMI": 28.3
+  },
+  "has_hypertension": true,
+  "condition_ids": [
+    [
+      "Hypertension",
+      "47048009"
+    ],
+    [
+      "COPD",
+      "47048010"
+    ]
+  ],
+  "medication_ids": [
+    [
+      "Metoprolol Tartrate 25 MG Tablet",
+      "47048011"
+    ],
+    [
+      "Lisinopril 10 MG Tablet",
+      "47048012"
+    ],
+    [
+      "Albuterol Inhaler",
+      "47048013"
+    ]
+  ],
+  "allergy_ids": [],
+  "vital_ids": [
+    [
+      "Systolic BP",
+      "47048014"
+    ],
+    [
+      "Diastolic BP",
+      "47048015"
+    ],
+    [
+      "Heart Rate",
+      "47048016"
+    ],
+    [
+      "Height",
+      "47048017"
+    ],
+    [
+      "Weight",
+      "47048018"
+    ],
+    [
+      "BMI",
+      "47048019"
+    ]
+  ]
+}

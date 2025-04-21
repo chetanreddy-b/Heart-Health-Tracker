@@ -1,0 +1,109 @@
+{
+  "id": "47047943",
+  "name": "Sandra Harris",
+  "age": 53,
+  "gender": "female",
+  "birth_date": "1972-04-11",
+  "conditions": [
+    "Hypertension",
+    "Type 2 Diabetes Mellitus",
+    "Arthritis",
+    "Obesity"
+  ],
+  "medications": [
+    "Lisinopril 10 MG Tablet",
+    "Amlodipine 5 MG Tablet",
+    "Losartan 50 MG Tablet",
+    "Metoprolol Tartrate 25 MG Tablet",
+    "Hydrochlorothiazide 25 MG Tablet",
+    "Metformin 500 MG Tablet",
+    "Glipizide 5 MG Tablet",
+    "Empagliflozin 10 MG Tablet",
+    "Ibuprofen 200 MG Tablet",
+    "Celecoxib 200 MG Capsule",
+    "Naproxen 500 MG Tablet",
+    "Orlistat 120 MG Capsule"
+  ],
+  "bp_category": "Hypertension Stage 1",
+  "vitals": {
+    "Systolic BP": 146.8,
+    "Diastolic BP": 96.0,
+    "Heart Rate": 88,
+    "Height": 183.4,
+    "Weight": 94.5,
+    "BMI": 28.1
+  },
+  "has_hypertension": true,
+  "condition_ids": [
+    [
+      "Hypertension",
+      "47047944"
+    ],
+    [
+      "Type 2 Diabetes Mellitus",
+      "47047945"
+    ],
+    [
+      "Arthritis",
+      "47047946"
+    ],
+    [
+      "Obesity",
+      "47047947"
+    ]
+  ],
+  "medication_ids": [
+    [
+      "Metoprolol Tartrate 25 MG Tablet",
+      "47047948"
+    ],
+    [
+      "Losartan 50 MG Tablet",
+      "47047949"
+    ],
+    [
+      "Empagliflozin 10 MG Tablet",
+      "47047950"
+    ],
+    [
+      "Ibuprofen 200 MG Tablet",
+      "47047951"
+    ],
+    [
+      "Orlistat 120 MG Capsule",
+      "47047952"
+    ]
+  ],
+  "allergy_ids": [
+    [
+      "Dust Allergy",
+      "47047953"
+    ]
+  ],
+  "vital_ids": [
+    [
+      "Systolic BP",
+      "47047954"
+    ],
+    [
+      "Diastolic BP",
+      "47047955"
+    ],
+    [
+      "Heart Rate",
+      "47047956"
+    ],
+    [
+      "Height",
+      "47047957"
+    ],
+    [
+      "Weight",
+      "47047958"
+    ],
+    [
+      "BMI",
+      "47047959"
+    ]
+  ]
+}

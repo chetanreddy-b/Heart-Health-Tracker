@@ -1,0 +1,31 @@
+date,time,exercise_type,duration_minutes,intensity,calories_burned,avg_heart_rate,steps
+2025-01-19,11:45,Swimming,41,Moderate,524,132,0
+2025-01-24,09:30,Yoga,22,Low,88,95,0
+2025-01-30,09:30,Cycling,46,Moderate,552,126,0
+2025-02-01,10:15,Cycling,43,Moderate,516,121,0
+2025-02-04,08:00,Weight Training,24,Low,156,93,0
+2025-02-06,12:15,Cycling,59,Moderate,708,116,0
+2025-02-07,13:00,Weight Training,35,Moderate,364,119,0
+2025-02-10,18:00,Walking,20,Low,100,99,2054
+2025-02-12,15:30,Running,43,Moderate,619,123,6350
+2025-02-15,10:00,Walking,59,Moderate,472,126,5355
+2025-02-16,07:45,Weight Training,26,Low,169,106,0
+2025-02-20,14:30,Swimming,31,High,595,156,0
+2025-02-21,18:45,Running,40,Moderate,576,122,6406
+2025-02-27,13:00,Swimming,50,Moderate,640,134,0
+2025-02-28,17:30,Yoga,40,High,384,149,0
+2025-03-01,06:45,Running,35,Moderate,504,132,6081
+2025-03-04,17:45,Yoga,31,Moderate,198,123,0
+2025-03-07,09:30,Cycling,37,Moderate,444,119,0
+2025-03-09,17:15,Walking,24,Low,120,96,2184
+2025-03-16,11:30,Swimming,49,Moderate,627,117,0
+2025-03-23,13:00,Weight Training,30,High,468,144,0
+2025-03-24,17:45,Weight Training,30,Moderate,312,130,0
+2025-03-31,08:00,Yoga,44,Moderate,281,126,0
+2025-04-01,09:00,Running,44,High,950,153,7107
+2025-04-02,06:15,Walking,59,Moderate,472,116,6476
+2025-04-05,17:00,Swimming,40,High,768,158,0
+2025-04-06,07:45,Walking,17,Low,85,92,1586
+2025-04-07,10:45,Cycling,27,Low,202,95,0
+2025-04-10,14:15,Weight Training,31,Moderate,322,120,0
+2025-04-12,16:15,Walking,39,Moderate,312,128,3919

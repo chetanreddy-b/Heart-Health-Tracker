@@ -1,0 +1,12 @@
+{
+  "weekly_frequency": 3,
+  "preferred_intensity": "High",
+  "preferred_activities": [
+    "Swimming",
+    "Walking",
+    "Running",
+    "HIIT"
+  ],
+  "avg_duration": 32,
+  "exercise_count": 39
+}

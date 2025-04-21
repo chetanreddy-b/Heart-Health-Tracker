@@ -1,0 +1,140 @@
+{
+  "id": "47047960",
+  "name": "David Scott",
+  "age": 70,
+  "gender": "male",
+  "birth_date": "1955-05-07",
+  "conditions": [
+    "Hypertension",
+    "Heart failure",
+    "Type 2 Diabetes Mellitus",
+    "Hyperlipidemia",
+    "Asthma",
+    "Depression",
+    "Obesity"
+  ],
+  "medications": [
+    "Lisinopril 10 MG Tablet",
+    "Amlodipine 5 MG Tablet",
+    "Losartan 50 MG Tablet",
+    "Metoprolol Tartrate 25 MG Tablet",
+    "Hydrochlorothiazide 25 MG Tablet",
+    "Lisinopril 10 MG Tablet",
+    "Furosemide 40 MG Tablet",
+    "Spironolactone 25 MG Tablet",
+    "Metoprolol Tartrate 25 MG Tablet",
+    "Metformin 500 MG Tablet",
+    "Glipizide 5 MG Tablet",
+    "Empagliflozin 10 MG Tablet",
+    "Atorvastatin 40 MG Tablet",
+    "Simvastatin 20 MG Tablet",
+    "Rosuvastatin 10 MG Tablet",
+    "Albuterol Inhaler",
+    "Fluticasone Propionate 110 MCG Inhaler",
+    "Sertraline 50 MG Tablet",
+    "Fluoxetine 20 MG Capsule",
+    "Escitalopram 10 MG Tablet",
+    "Orlistat 120 MG Capsule"
+  ],
+  "bp_category": "Hypertension Stage 1",
+  "vitals": {
+    "Systolic BP": 153.7,
+    "Diastolic BP": 98.1,
+    "Heart Rate": 89,
+    "Height": 182.2,
+    "Weight": 106.3,
+    "BMI": 32.0
+  },
+  "has_hypertension": true,
+  "condition_ids": [
+    [
+      "Hypertension",
+      "47047961"
+    ],
+    [
+      "Heart failure",
+      "47047962"
+    ],
+    [
+      "Type 2 Diabetes Mellitus",
+      "47047963"
+    ],
+    [
+      "Hyperlipidemia",
+      "47047964"
+    ],
+    [
+      "Asthma",
+      "47047965"
+    ],
+    [
+      "Depression",
+      "47047966"
+    ],
+    [
+      "Obesity",
+      "47047967"
+    ]
+  ],
+  "medication_ids": [
+    [
+      "Hydrochlorothiazide 25 MG Tablet",
+      "47047968"
+    ],
+    [
+      "Losartan 50 MG Tablet",
+      "47047969"
+    ],
+    [
+      "Lisinopril 10 MG Tablet",
+      "47047970"
+    ],
+    [
+      "Empagliflozin 10 MG Tablet",
+      "47047971"
+    ],
+    [
+      "Glipizide 5 MG Tablet",
+      "47047972"
+    ],
+    [
+      "Atorvastatin 40 MG Tablet",
+      "47047973"
+    ],
+    [
+      "Escitalopram 10 MG Tablet",
+      "47047974"
+    ],
+    [
+      "Sertraline 50 MG Tablet",
+      "47047975"
+    ]
+  ],
+  "allergy_ids": [],
+  "vital_ids": [
+    [
+      "Systolic BP",
+      "47047976"
+    ],
+    [
+      "Diastolic BP",
+      "47047977"
+    ],
+    [
+      "Heart Rate",
+      "47047978"
+    ],
+    [
+      "Height",
+      "47047979"
+    ],
+    [
+      "Weight",
+      "47047980"
+    ],
+    [
+      "BMI",
+      "47047981"
+    ]
+  ]
+}

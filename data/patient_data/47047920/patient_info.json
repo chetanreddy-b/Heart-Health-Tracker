@@ -1,0 +1,48 @@
+{
+  "id": "47047920",
+  "name": "Olivia Turner",
+  "age": 46,
+  "gender": "female",
+  "birth_date": "1979-03-01",
+  "conditions": [],
+  "medications": [],
+  "bp_category": "Hypertension Stage 1",
+  "vitals": {
+    "Systolic BP": 121.7,
+    "Diastolic BP": 80.5,
+    "Heart Rate": 64,
+    "Height": 158.3,
+    "Weight": 59.4,
+    "BMI": 23.7
+  },
+  "has_hypertension": false,
+  "condition_ids": [],
+  "medication_ids": [],
+  "allergy_ids": [],
+  "vital_ids": [
+    [
+      "Systolic BP",
+      "47047921"
+    ],
+    [
+      "Diastolic BP",
+      "47047922"
+    ],
+    [
+      "Heart Rate",
+      "47047923"
+    ],
+    [
+      "Height",
+      "47047924"
+    ],
+    [
+      "Weight",
+      "47047925"
+    ],
+    [
+      "BMI",
+      "47047926"
+    ]
+  ]
+}

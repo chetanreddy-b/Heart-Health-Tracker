@@ -1,0 +1,62 @@
+{
+  "id": "47047927",
+  "name": "Deborah Wright",
+  "age": 51,
+  "gender": "female",
+  "birth_date": "1974-10-26",
+  "conditions": [
+    "Obesity"
+  ],
+  "medications": [
+    "Orlistat 120 MG Capsule"
+  ],
+  "bp_category": "Hypertension Stage 1",
+  "vitals": {
+    "Systolic BP": 130.3,
+    "Diastolic BP": 88.2,
+    "Heart Rate": 84,
+    "Height": 171.8,
+    "Weight": 75.7,
+    "BMI": 25.6
+  },
+  "has_hypertension": false,
+  "condition_ids": [
+    [
+      "Obesity",
+      "47047928"
+    ]
+  ],
+  "medication_ids": [
+    [
+      "Orlistat 120 MG Capsule",
+      "47047929"
+    ]
+  ],
+  "allergy_ids": [],
+  "vital_ids": [
+    [
+      "Systolic BP",
+      "47047930"
+    ],
+    [
+      "Diastolic BP",
+      "47047931"
+    ],
+    [
+      "Heart Rate",
+      "47047932"
+    ],
+    [
+      "Height",
+      "47047933"
+    ],
+    [
+      "Weight",
+      "47047934"
+    ],
+    [
+      "BMI",
+      "47047935"
+    ]
+  ]
+}

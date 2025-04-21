@@ -1,0 +1,11 @@
+{
+  "weekly_frequency": 2,
+  "preferred_intensity": "Moderate",
+  "preferred_activities": [
+    "Walking",
+    "Weight Training",
+    "HIIT"
+  ],
+  "avg_duration": 32,
+  "exercise_count": 26
+}

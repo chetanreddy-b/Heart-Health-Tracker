@@ -1,0 +1,81 @@
+{
+  "id": "47047908",
+  "name": "Elizabeth Rodriguez",
+  "age": 45,
+  "gender": "male",
+  "birth_date": "1980-03-11",
+  "conditions": [
+    "Atrial Fibrillation",
+    "Arthritis"
+  ],
+  "medications": [
+    "Aspirin 81 MG Tablet",
+    "Warfarin 5 MG Tablet",
+    "Metoprolol Tartrate 25 MG Tablet",
+    "Apixaban 5 MG Tablet",
+    "Ibuprofen 200 MG Tablet",
+    "Celecoxib 200 MG Capsule",
+    "Naproxen 500 MG Tablet"
+  ],
+  "bp_category": "Elevated",
+  "vitals": {
+    "Systolic BP": 124.1,
+    "Diastolic BP": 79.8,
+    "Heart Rate": 84,
+    "Height": 174.6,
+    "Weight": 67.0,
+    "BMI": 22.0
+  },
+  "has_hypertension": false,
+  "condition_ids": [
+    [
+      "Atrial Fibrillation",
+      "47047909"
+    ],
+    [
+      "Arthritis",
+      "47047910"
+    ]
+  ],
+  "medication_ids": [
+    [
+      "Aspirin 81 MG Tablet",
+      "47047911"
+    ],
+    [
+      "Naproxen 500 MG Tablet",
+      "47047912"
+    ],
+    [
+      "Celecoxib 200 MG Capsule",
+      "47047913"
+    ]
+  ],
+  "allergy_ids": [],
+  "vital_ids": [
+    [
+      "Systolic BP",
+      "47047914"
+    ],
+    [
+      "Diastolic BP",
+      "47047915"
+    ],
+    [
+      "Heart Rate",
+      "47047916"
+    ],
+    [
+      "Height",
+      "47047917"
+    ],
+    [
+      "Weight",
+      "47047918"
+    ],
+    [
+      "BMI",
+      "47047919"
+    ]
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "47047936",
+  "name": "Matthew Jackson",
+  "age": 48,
+  "gender": "male",
+  "birth_date": "1977-03-13",
+  "conditions": [],
+  "medications": [],
+  "bp_category": "Hypertension Stage 1",
+  "vitals": {
+    "Systolic BP": 118.3,
+    "Diastolic BP": 81.6,
+    "Heart Rate": 93,
+    "Height": 195.3,
+    "Weight": 68.8,
+    "BMI": 18.0
+  },
+  "has_hypertension": false,
+  "condition_ids": [],
+  "medication_ids": [],
+  "allergy_ids": [],
+  "vital_ids": [
+    [
+      "Systolic BP",
+      "47047937"
+    ],
+    [
+      "Diastolic BP",
+      "47047938"
+    ],
+    [
+      "Heart Rate",
+      "47047939"
+    ],
+    [
+      "Height",
+      "47047940"
+    ],
+    [
+      "Weight",
+      "47047941"
+    ],
+    [
+      "BMI",
+      "47047942"
+    ]
+  ]
+}

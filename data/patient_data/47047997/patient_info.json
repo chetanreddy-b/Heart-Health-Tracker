@@ -1,0 +1,71 @@
+{
+  "id": "47047997",
+  "name": "Charles Walker",
+  "age": 33,
+  "gender": "male",
+  "birth_date": "1992-04-15",
+  "conditions": [
+    "Obesity"
+  ],
+  "medications": [
+    "Orlistat 120 MG Capsule"
+  ],
+  "bp_category": "Elevated",
+  "vitals": {
+    "Systolic BP": 123.3,
+    "Diastolic BP": 79.3,
+    "Heart Rate": 62,
+    "Height": 157.2,
+    "Weight": 108.8,
+    "BMI": 44.0
+  },
+  "has_hypertension": false,
+  "condition_ids": [
+    [
+      "Obesity",
+      "47047998"
+    ]
+  ],
+  "medication_ids": [
+    [
+      "Orlistat 120 MG Capsule",
+      "47047999"
+    ]
+  ],
+  "allergy_ids": [
+    [
+      "Pollen Allergy",
+      "47048000"
+    ],
+    [
+      "Shellfish Allergy",
+      "47048001"
+    ]
+  ],
+  "vital_ids": [
+    [
+      "Systolic BP",
+      "47048002"
+    ],
+    [
+      "Diastolic BP",
+      "47048003"
+    ],
+    [
+      "Heart Rate",
+      "47048004"
+    ],
+    [
+      "Height",
+      "47048005"
+    ],
+    [
+      "Weight",
+      "47048006"
+    ],
+    [
+      "BMI",
+      "47048007"
+    ]
+  ]
+}

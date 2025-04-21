@@ -1,0 +1,791 @@
+[
+  {
+    "id": "47047908",
+    "name": "Elizabeth Rodriguez",
+    "age": 45,
+    "gender": "male",
+    "birth_date": "1980-03-11",
+    "conditions": [
+      "Atrial Fibrillation",
+      "Arthritis"
+    ],
+    "medications": [
+      "Aspirin 81 MG Tablet",
+      "Warfarin 5 MG Tablet",
+      "Metoprolol Tartrate 25 MG Tablet",
+      "Apixaban 5 MG Tablet",
+      "Ibuprofen 200 MG Tablet",
+      "Celecoxib 200 MG Capsule",
+      "Naproxen 500 MG Tablet"
+    ],
+    "bp_category": "Elevated",
+    "vitals": {
+      "Systolic BP": 124.1,
+      "Diastolic BP": 79.8,
+      "Heart Rate": 84,
+      "Height": 174.6,
+      "Weight": 67.0,
+      "BMI": 22.0
+    },
+    "has_hypertension": false,
+    "condition_ids": [
+      [
+        "Atrial Fibrillation",
+        "47047909"
+      ],
+      [
+        "Arthritis",
+        "47047910"
+      ]
+    ],
+    "medication_ids": [
+      [
+        "Aspirin 81 MG Tablet",
+        "47047911"
+      ],
+      [
+        "Naproxen 500 MG Tablet",
+        "47047912"
+      ],
+      [
+        "Celecoxib 200 MG Capsule",
+        "47047913"
+      ]
+    ],
+    "allergy_ids": [],
+    "vital_ids": [
+      [
+        "Systolic BP",
+        "47047914"
+      ],
+      [
+        "Diastolic BP",
+        "47047915"
+      ],
+      [
+        "Heart Rate",
+        "47047916"
+      ],
+      [
+        "Height",
+        "47047917"
+      ],
+      [
+        "Weight",
+        "47047918"
+      ],
+      [
+        "BMI",
+        "47047919"
+      ]
+    ]
+  },
+  {
+    "id": "47047920",
+    "name": "Olivia Turner",
+    "age": 46,
+    "gender": "female",
+    "birth_date": "1979-03-01",
+    "conditions": [],
+    "medications": [],
+    "bp_category": "Hypertension Stage 1",
+    "vitals": {
+      "Systolic BP": 121.7,
+      "Diastolic BP": 80.5,
+      "Heart Rate": 64,
+      "Height": 158.3,
+      "Weight": 59.4,
+      "BMI": 23.7
+    },
+    "has_hypertension": false,
+    "condition_ids": [],
+    "medication_ids": [],
+    "allergy_ids": [],
+    "vital_ids": [
+      [
+        "Systolic BP",
+        "47047921"
+      ],
+      [
+        "Diastolic BP",
+        "47047922"
+      ],
+      [
+        "Heart Rate",
+        "47047923"
+      ],
+      [
+        "Height",
+        "47047924"
+      ],
+      [
+        "Weight",
+        "47047925"
+      ],
+      [
+        "BMI",
+        "47047926"
+      ]
+    ]
+  },
+  {
+    "id": "47047927",
+    "name": "Deborah Wright",
+    "age": 51,
+    "gender": "female",
+    "birth_date": "1974-10-26",
+    "conditions": [
+      "Obesity"
+    ],
+    "medications": [
+      "Orlistat 120 MG Capsule"
+    ],
+    "bp_category": "Hypertension Stage 1",
+    "vitals": {
+      "Systolic BP": 130.3,
+      "Diastolic BP": 88.2,
+      "Heart Rate": 84,
+      "Height": 171.8,
+      "Weight": 75.7,
+      "BMI": 25.6
+    },
+    "has_hypertension": false,
+    "condition_ids": [
+      [
+        "Obesity",
+        "47047928"
+      ]
+    ],
+    "medication_ids": [
+      [
+        "Orlistat 120 MG Capsule",
+        "47047929"
+      ]
+    ],
+    "allergy_ids": [],
+    "vital_ids": [
+      [
+        "Systolic BP",
+        "47047930"
+      ],
+      [
+        "Diastolic BP",
+        "47047931"
+      ],
+      [
+        "Heart Rate",
+        "47047932"
+      ],
+      [
+        "Height",
+        "47047933"
+      ],
+      [
+        "Weight",
+        "47047934"
+      ],
+      [
+        "BMI",
+        "47047935"
+      ]
+    ]
+  },
+  {
+    "id": "47047936",
+    "name": "Matthew Jackson",
+    "age": 48,
+    "gender": "male",
+    "birth_date": "1977-03-13",
+    "conditions": [],
+    "medications": [],
+    "bp_category": "Hypertension Stage 1",
+    "vitals": {
+      "Systolic BP": 118.3,
+      "Diastolic BP": 81.6,
+      "Heart Rate": 93,
+      "Height": 195.3,
+      "Weight": 68.8,
+      "BMI": 18.0
+    },
+    "has_hypertension": false,
+    "condition_ids": [],
+    "medication_ids": [],
+    "allergy_ids": [],
+    "vital_ids": [
+      [
+        "Systolic BP",
+        "47047937"
+      ],
+      [
+        "Diastolic BP",
+        "47047938"
+      ],
+      [
+        "Heart Rate",
+        "47047939"
+      ],
+      [
+        "Height",
+        "47047940"
+      ],
+      [
+        "Weight",
+        "47047941"
+      ],
+      [
+        "BMI",
+        "47047942"
+      ]
+    ]
+  },
+  {
+    "id": "47047943",
+    "name": "Sandra Harris",
+    "age": 53,
+    "gender": "female",
+    "birth_date": "1972-04-11",
+    "conditions": [
+      "Hypertension",
+      "Type 2 Diabetes Mellitus",
+      "Arthritis",
+      "Obesity"
+    ],
+    "medications": [
+      "Lisinopril 10 MG Tablet",
+      "Amlodipine 5 MG Tablet",
+      "Losartan 50 MG Tablet",
+      "Metoprolol Tartrate 25 MG Tablet",
+      "Hydrochlorothiazide 25 MG Tablet",
+      "Metformin 500 MG Tablet",
+      "Glipizide 5 MG Tablet",
+      "Empagliflozin 10 MG Tablet",
+      "Ibuprofen 200 MG Tablet",
+      "Celecoxib 200 MG Capsule",
+      "Naproxen 500 MG Tablet",
+      "Orlistat 120 MG Capsule"
+    ],
+    "bp_category": "Hypertension Stage 1",
+    "vitals": {
+      "Systolic BP": 146.8,
+      "Diastolic BP": 96.0,
+      "Heart Rate": 88,
+      "Height": 183.4,
+      "Weight": 94.5,
+      "BMI": 28.1
+    },
+    "has_hypertension": true,
+    "condition_ids": [
+      [
+        "Hypertension",
+        "47047944"
+      ],
+      [
+        "Type 2 Diabetes Mellitus",
+        "47047945"
+      ],
+      [
+        "Arthritis",
+        "47047946"
+      ],
+      [
+        "Obesity",
+        "47047947"
+      ]
+    ],
+    "medication_ids": [
+      [
+        "Metoprolol Tartrate 25 MG Tablet",
+        "47047948"
+      ],
+      [
+        "Losartan 50 MG Tablet",
+        "47047949"
+      ],
+      [
+        "Empagliflozin 10 MG Tablet",
+        "47047950"
+      ],
+      [
+        "Ibuprofen 200 MG Tablet",
+        "47047951"
+      ],
+      [
+        "Orlistat 120 MG Capsule",
+        "47047952"
+      ]
+    ],
+    "allergy_ids": [
+      [
+        "Dust Allergy",
+        "47047953"
+      ]
+    ],
+    "vital_ids": [
+      [
+        "Systolic BP",
+        "47047954"
+      ],
+      [
+        "Diastolic BP",
+        "47047955"
+      ],
+      [
+        "Heart Rate",
+        "47047956"
+      ],
+      [
+        "Height",
+        "47047957"
+      ],
+      [
+        "Weight",
+        "47047958"
+      ],
+      [
+        "BMI",
+        "47047959"
+      ]
+    ]
+  },
+  {
+    "id": "47047960",
+    "name": "David Scott",
+    "age": 70,
+    "gender": "male",
+    "birth_date": "1955-05-07",
+    "conditions": [
+      "Hypertension",
+      "Heart failure",
+      "Type 2 Diabetes Mellitus",
+      "Hyperlipidemia",
+      "Asthma",
+      "Depression",
+      "Obesity"
+    ],
+    "medications": [
+      "Lisinopril 10 MG Tablet",
+      "Amlodipine 5 MG Tablet",
+      "Losartan 50 MG Tablet",
+      "Metoprolol Tartrate 25 MG Tablet",
+      "Hydrochlorothiazide 25 MG Tablet",
+      "Lisinopril 10 MG Tablet",
+      "Furosemide 40 MG Tablet",
+      "Spironolactone 25 MG Tablet",
+      "Metoprolol Tartrate 25 MG Tablet",
+      "Metformin 500 MG Tablet",
+      "Glipizide 5 MG Tablet",
+      "Empagliflozin 10 MG Tablet",
+      "Atorvastatin 40 MG Tablet",
+      "Simvastatin 20 MG Tablet",
+      "Rosuvastatin 10 MG Tablet",
+      "Albuterol Inhaler",
+      "Fluticasone Propionate 110 MCG Inhaler",
+      "Sertraline 50 MG Tablet",
+      "Fluoxetine 20 MG Capsule",
+      "Escitalopram 10 MG Tablet",
+      "Orlistat 120 MG Capsule"
+    ],
+    "bp_category": "Hypertension Stage 1",
+    "vitals": {
+      "Systolic BP": 153.7,
+      "Diastolic BP": 98.1,
+      "Heart Rate": 89,
+      "Height": 182.2,
+      "Weight": 106.3,
+      "BMI": 32.0
+    },
+    "has_hypertension": true,
+    "condition_ids": [
+      [
+        "Hypertension",
+        "47047961"
+      ],
+      [
+        "Heart failure",
+        "47047962"
+      ],
+      [
+        "Type 2 Diabetes Mellitus",
+        "47047963"
+      ],
+      [
+        "Hyperlipidemia",
+        "47047964"
+      ],
+      [
+        "Asthma",
+        "47047965"
+      ],
+      [
+        "Depression",
+        "47047966"
+      ],
+      [
+        "Obesity",
+        "47047967"
+      ]
+    ],
+    "medication_ids": [
+      [
+        "Hydrochlorothiazide 25 MG Tablet",
+        "47047968"
+      ],
+      [
+        "Losartan 50 MG Tablet",
+        "47047969"
+      ],
+      [
+        "Lisinopril 10 MG Tablet",
+        "47047970"
+      ],
+      [
+        "Empagliflozin 10 MG Tablet",
+        "47047971"
+      ],
+      [
+        "Glipizide 5 MG Tablet",
+        "47047972"
+      ],
+      [
+        "Atorvastatin 40 MG Tablet",
+        "47047973"
+      ],
+      [
+        "Escitalopram 10 MG Tablet",
+        "47047974"
+      ],
+      [
+        "Sertraline 50 MG Tablet",
+        "47047975"
+      ]
+    ],
+    "allergy_ids": [],
+    "vital_ids": [
+      [
+        "Systolic BP",
+        "47047976"
+      ],
+      [
+        "Diastolic BP",
+        "47047977"
+      ],
+      [
+        "Heart Rate",
+        "47047978"
+      ],
+      [
+        "Height",
+        "47047979"
+      ],
+      [
+        "Weight",
+        "47047980"
+      ],
+      [
+        "BMI",
+        "47047981"
+      ]
+    ]
+  },
+  {
+    "id": "47047982",
+    "name": "Donna Moore",
+    "age": 84,
+    "gender": "female",
+    "birth_date": "1941-05-22",
+    "conditions": [
+      "Atrial Fibrillation",
+      "Arthritis",
+      "Obesity"
+    ],
+    "medications": [
+      "Aspirin 81 MG Tablet",
+      "Warfarin 5 MG Tablet",
+      "Metoprolol Tartrate 25 MG Tablet",
+      "Apixaban 5 MG Tablet",
+      "Ibuprofen 200 MG Tablet",
+      "Celecoxib 200 MG Capsule",
+      "Naproxen 500 MG Tablet",
+      "Orlistat 120 MG Capsule"
+    ],
+    "bp_category": "Hypertension Stage 1",
+    "vitals": {
+      "Systolic BP": 150.9,
+      "Diastolic BP": 91.0,
+      "Heart Rate": 78,
+      "Height": 143.3,
+      "Weight": 87.7,
+      "BMI": 42.7
+    },
+    "has_hypertension": false,
+    "condition_ids": [
+      [
+        "Atrial Fibrillation",
+        "47047983"
+      ],
+      [
+        "Arthritis",
+        "47047984"
+      ],
+      [
+        "Obesity",
+        "47047985"
+      ]
+    ],
+    "medication_ids": [
+      [
+        "Warfarin 5 MG Tablet",
+        "47047986"
+      ],
+      [
+        "Ibuprofen 200 MG Tablet",
+        "47047987"
+      ],
+      [
+        "Orlistat 120 MG Capsule",
+        "47047988"
+      ]
+    ],
+    "allergy_ids": [
+      [
+        "Penicillin Allergy",
+        "47047989"
+      ],
+      [
+        "Pollen Allergy",
+        "47047990"
+      ]
+    ],
+    "vital_ids": [
+      [
+        "Systolic BP",
+        "47047991"
+      ],
+      [
+        "Diastolic BP",
+        "47047992"
+      ],
+      [
+        "Heart Rate",
+        "47047993"
+      ],
+      [
+        "Height",
+        "47047994"
+      ],
+      [
+        "Weight",
+        "47047995"
+      ],
+      [
+        "BMI",
+        "47047996"
+      ]
+    ]
+  },
+  {
+    "id": "47047997",
+    "name": "Charles Walker",
+    "age": 33,
+    "gender": "male",
+    "birth_date": "1992-04-15",
+    "conditions": [
+      "Obesity"
+    ],
+    "medications": [
+      "Orlistat 120 MG Capsule"
+    ],
+    "bp_category": "Elevated",
+    "vitals": {
+      "Systolic BP": 123.3,
+      "Diastolic BP": 79.3,
+      "Heart Rate": 62,
+      "Height": 157.2,
+      "Weight": 108.8,
+      "BMI": 44.0
+    },
+    "has_hypertension": false,
+    "condition_ids": [
+      [
+        "Obesity",
+        "47047998"
+      ]
+    ],
+    "medication_ids": [
+      [
+        "Orlistat 120 MG Capsule",
+        "47047999"
+      ]
+    ],
+    "allergy_ids": [
+      [
+        "Pollen Allergy",
+        "47048000"
+      ],
+      [
+        "Shellfish Allergy",
+        "47048001"
+      ]
+    ],
+    "vital_ids": [
+      [
+        "Systolic BP",
+        "47048002"
+      ],
+      [
+        "Diastolic BP",
+        "47048003"
+      ],
+      [
+        "Heart Rate",
+        "47048004"
+      ],
+      [
+        "Height",
+        "47048005"
+      ],
+      [
+        "Weight",
+        "47048006"
+      ],
+      [
+        "BMI",
+        "47048007"
+      ]
+    ]
+  },
+  {
+    "id": "47048008",
+    "name": "Richard Parker",
+    "age": 43,
+    "gender": "male",
+    "birth_date": "1982-12-11",
+    "conditions": [
+      "Hypertension",
+      "COPD"
+    ],
+    "medications": [
+      "Lisinopril 10 MG Tablet",
+      "Amlodipine 5 MG Tablet",
+      "Losartan 50 MG Tablet",
+      "Metoprolol Tartrate 25 MG Tablet",
+      "Hydrochlorothiazide 25 MG Tablet",
+      "Albuterol Inhaler",
+      "Tiotropium 18 MCG Capsule"
+    ],
+    "bp_category": "Hypertension Stage 1",
+    "vitals": {
+      "Systolic BP": 123.3,
+      "Diastolic BP": 88.3,
+      "Heart Rate": 78,
+      "Height": 169.1,
+      "Weight": 80.8,
+      "BMI": 28.3
+    },
+    "has_hypertension": true,
+    "condition_ids": [
+      [
+        "Hypertension",
+        "47048009"
+      ],
+      [
+        "COPD",
+        "47048010"
+      ]
+    ],
+    "medication_ids": [
+      [
+        "Metoprolol Tartrate 25 MG Tablet",
+        "47048011"
+      ],
+      [
+        "Lisinopril 10 MG Tablet",
+        "47048012"
+      ],
+      [
+        "Albuterol Inhaler",
+        "47048013"
+      ]
+    ],
+    "allergy_ids": [],
+    "vital_ids": [
+      [
+        "Systolic BP",
+        "47048014"
+      ],
+      [
+        "Diastolic BP",
+        "47048015"
+      ],
+      [
+        "Heart Rate",
+        "47048016"
+      ],
+      [
+        "Height",
+        "47048017"
+      ],
+      [
+        "Weight",
+        "47048018"
+      ],
+      [
+        "BMI",
+        "47048019"
+      ]
+    ]
+  },
+  {
+    "id": "47048020",
+    "name": "Jeffrey Cruz",
+    "age": 55,
+    "gender": "female",
+    "birth_date": "1970-04-10",
+    "conditions": [],
+    "medications": [],
+    "bp_category": "Hypertension Stage 1",
+    "vitals": {
+      "Systolic BP": 132.4,
+      "Diastolic BP": 81.7,
+      "Heart Rate": 76,
+      "Height": 151.8,
+      "Weight": 48.8,
+      "BMI": 21.2
+    },
+    "has_hypertension": false,
+    "condition_ids": [],
+    "medication_ids": [],
+    "allergy_ids": [
+      [
+        "Shellfish Allergy",
+        "47048021"
+      ]
+    ],
+    "vital_ids": [
+      [
+        "Systolic BP",
+        "47048022"
+      ],
+      [
+        "Diastolic BP",
+        "47048023"
+      ],
+      [
+        "Heart Rate",
+        "47048024"
+      ],
+      [
+        "Height",
+        "47048025"
+      ],
+      [
+        "Weight",
+        "47048026"
+      ],
+      [
+        "BMI",
+        "47048027"
+      ]
+    ]
+  }
+]

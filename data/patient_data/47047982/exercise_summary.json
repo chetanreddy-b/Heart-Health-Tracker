@@ -1,0 +1,10 @@
+{
+  "weekly_frequency": 2,
+  "preferred_intensity": "Low",
+  "preferred_activities": [
+    "Running",
+    "Swimming"
+  ],
+  "avg_duration": 19,
+  "exercise_count": 26
+}

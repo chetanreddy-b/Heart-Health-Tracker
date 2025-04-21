@@ -1,0 +1,14 @@
+date,time,exercise_type,duration_minutes,intensity,calories_burned,avg_heart_rate,steps
+2025-01-19,08:00,Swimming,28,Low,179,85,0
+2025-01-26,07:45,HIIT,32,Moderate,448,115,0
+2025-02-02,08:00,Walking,21,Low,84,80,2017
+2025-02-09,18:15,Swimming,39,Moderate,436,108,0
+2025-02-16,07:15,Yoga,40,Moderate,224,122,0
+2025-02-23,07:00,Cycling,35,Moderate,367,109,0
+2025-03-02,19:30,Swimming,47,Moderate,526,106,0
+2025-03-09,07:00,Walking,26,Low,104,87,2710
+2025-03-16,12:45,Walking,44,Moderate,308,110,4059
+2025-03-23,18:45,Walking,48,Moderate,336,110,5148
+2025-03-30,07:15,Walking,16,Low,64,81,1616
+2025-04-06,08:30,Walking,22,High,220,148,2098
+2025-04-13,08:30,Swimming,42,Moderate,470,107,0
